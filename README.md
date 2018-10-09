@@ -1,4 +1,4 @@
-#Behat + Mink + Selenium2 Server
+# Behat + Mink + Selenium2 Server
 
 **Requirements**
 
