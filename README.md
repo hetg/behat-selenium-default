@@ -10,7 +10,10 @@
 
 1. Copy the repository to your local machine
 
-    `git clone https://github.com/hetg/behat-selenium-default.git`
+    ```
+    git clone https://github.com/hetg/behat-selenium-default.git <your_folder>
+    cd <your_folder>
+    ```
     
 2.  Install composer packages
 
