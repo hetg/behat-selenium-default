@@ -2,7 +2,9 @@
 
 **Requirements**
 
-* TODO
+* Composer
+* NodeJS and NPM
+* PHP
 
 **Installation**
 
