@@ -1,0 +1,17 @@
+{
+  "name": "behat_and_selenium2",
+  "version": "1.0.0",
+  "description": "Behat + Selenium2",
+  "main": "none",
+  "dependencies": {
+    "selenium-standalone": "^6.15.3",
+    "webdriverio": "^4.13.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "selenium-start": "node_modules/.bin/selenium-standalone start",
+    "postinstall": "node_modules/.bin/selenium-standalone install"
+  },
+  "author": "Denis Popovich",
+  "license": "ISC"
+}
